@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "79467d8f12d0999c9aec92c4c312edb5",
+    "revision": "2997297b1e6599ecf0841beb853c3a06",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "fa389af8e5306d46a5be",
+    "revision": "e39861a18ce6aea8c8d7",
     "url": "/static/css/main.52a26c30.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.a11c632d.chunk.js"
   },
   {
-    "revision": "fa389af8e5306d46a5be",
-    "url": "/static/js/main.51367fbd.chunk.js"
+    "revision": "e39861a18ce6aea8c8d7",
+    "url": "/static/js/main.b5f851c2.chunk.js"
   },
   {
     "revision": "fded0c4d05d9aa718181",
@@ -44,8 +44,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Agustina.21f233e1.woff"
   },
   {
+    "revision": "87336884355585936ca4e75b2a23c906",
+    "url": "/static/media/GMU.87336884.png"
+  },
+  {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "8a307d00fe1c12640469aeabca35c23e",
+    "url": "/static/media/OPHS.8a307d00.png"
   },
   {
     "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
@@ -72,10 +80,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
-    "revision": "35ef5e915631be2c31ccdff55b53db29",
-    "url": "/static/media/harvardLogo.35ef5e91.png"
-  },
-  {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
   },
@@ -98,10 +102,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/static/media/skill.34409398.svg"
-  },
-  {
-    "revision": "3b758ef56d398145542e137daa28e392",
-    "url": "/static/media/stanfordLogo.3b758ef5.png"
   },
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",

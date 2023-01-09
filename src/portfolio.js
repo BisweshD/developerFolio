@@ -32,7 +32,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "Skills",
-  subTitle: "A selection of technical skills I have acquired",
+  subTitle: "A selection of technical skills I have acquired:",
   skills: [
     "Object-Oriented Programming",
     "Testing/Debugging",
@@ -69,7 +69,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "George Mason University",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/GMU.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "August 2022 - December 2026",
       desc: "In-Major GPA: 4.0",
@@ -80,8 +80,8 @@ const educationInfo = {
     },
     {
       schoolName: "Osbourn Park High",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
+      logo: require("./assets/images/OPHS.png"),
+      subHeader: "High School Diploma",
       duration: "August 2017 - May 2022",
       desc: "Ranked top 3% in the School. Took courses about Computer Science, VEX Robotics, Principles of Engineering, ...",
       descBullets: ["President of Code Club,", "Lead Programmer of VEX Robotics Club]

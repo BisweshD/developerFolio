@@ -136,7 +136,7 @@ const workExperiences = {
       desc: "Tutor"
     },
     {
-      role: "Math Instructor"
+      role: "Math Instructor",
       company: "Matnasium",
       companylogo: require("./assets/images/Mathnasium.png"),
       date: "December 2019 – April 2022",

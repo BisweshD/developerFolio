@@ -72,19 +72,19 @@ const educationInfo = {
       logo: require("./assets/images/harvardLogo.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "August 2022 - December 2026",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      desc: "In-Major GPA: 4.0",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Participated in PatriotHacks",
+        "Member of Nepalese Student Association"
       ]
     },
     {
-      schoolName: "Stanford University",
+      schoolName: "Osbourn Park High",
       logo: require("./assets/images/stanfordLogo.png"),
       subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      duration: "August 2017 - May 2022",
+      desc: "Ranked top 3% in the School. Took courses about Computer Science, VEX Robotics, Principles of Engineering, ...",
+      descBullets: ["President of Code Club,", "Lead Programmer of VEX Robotics Club]
     }
   ]
 };

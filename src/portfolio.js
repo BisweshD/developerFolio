@@ -84,7 +84,7 @@ const educationInfo = {
       subHeader: "High School Diploma",
       duration: "August 2017 - May 2022",
       desc: "Ranked top 3% in the School. Took courses about Computer Science, VEX Robotics, Principles of Engineering, ...",
-      descBullets: ["President of Code Club,", "Lead Programmer of VEX Robotics Club]
+      descBullets: ["President of Code Club"]
     }
   ]
 };

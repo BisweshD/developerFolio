@@ -250,6 +250,19 @@ const blogSection = {
 
 // Talks Sections
 
+const talks = {
+  title: "Talks",
+  subtitle: "",
+  talks: [],
+  display: false
+};
+
+const podcasts = {
+  title: "Podcasts",
+  subtitle: "",
+  podcasts: [],
+  display: false
+};
 
 
 const contactInfo = {

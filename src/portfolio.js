@@ -201,14 +201,12 @@ const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
   subtitle:
     "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
-
   achievementsCards: [
     {
       title: "Managing systems through Linux Essentials",
-      subtitle:
-        "Cisco Networking Academy",
+      subtitle: "Cisco Networking Academy",
       image: require("./assets/images/Cisco.png"),
-      imageAlt: "Google Code-In Logo",
+      imageAlt: "Cisco Networking Academy Logo",
       footerLink: [
         {
           name: "Certification",
@@ -226,15 +224,19 @@ const achievementSection = {
     },
     {
       title: "Flight Test Completition Certificate",
-      subtitle:
-        "Comet",
+      subtitle: "Comet",
       image: require("./assets/images/Comet.jpg"),
-
+      imageAlt: "Comet logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: ""
+        }
+      ]
     },
   ],
   display: true // Set false to hide this section, defaults to true
 };
-
 // Blogs Section
 
 const blogSection = {

@@ -156,29 +156,29 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Research & Volunteer",
+  subtitle: "Experience",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/VSGC.webp"),
+      projectName: "Virginia Space Grant Consortium - Space Research Scholar ",
+      projectDesc: "Authored current missions of NASA Wallops flight facility through technical reports aimed at solving engineering problems. • Created a comprehensive Mars mission involving the implementation of Hydrogenated Boron Nanotubes to protect Mars's habitat from cosmic and galactic radiation",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "http://www.vsgc.odu.edu"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/ANHS.webp"),
+      projectName: "America Nepal Helping Society - Nepalese Language Instructor (Volunteer) ",
+      projectDesc: "Teach the Nepali Language to beginner and intermediate level students by offering effective lesson plans that utilize speaking, writing, and listening techniques.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://anhsdc.org/"
         }
       ]
     }
@@ -196,10 +196,10 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Managing systems through Linux Essentials",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
+        "Cisco Networking Academy",
+      image: require("./assets/images/Cisco.webp"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
@@ -217,10 +217,10 @@ const achievementSection = {
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "Flight Test Completition Certificate",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+        "Comet",
+      image: require("./assets/images/Comet.webp"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {

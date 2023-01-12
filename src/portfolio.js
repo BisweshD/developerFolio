@@ -228,29 +228,9 @@ const achievementSection = {
       title: "Flight Test Completition Certificate",
       subtitle:
         "Comet",
-      image: require("./assets/images/Comet.png"),
-      imageAlt: "Google Assistant Action Logo",
-      footerLink: [
-        {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
-        }
-      ]
-    },
+      image: require("./assets/images/Comet.jpg"),
 
-    {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
-      footerLink: [
-        {name: "Certification", url: ""},
-        {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
-        }
-      ]
-    }
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };

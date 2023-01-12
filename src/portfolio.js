@@ -133,14 +133,22 @@ const workExperiences = {
       companyUrl: "www.tutordoctor.com",
       companylogo: require("./assets/images/TutorDoctor.png"),
       date: "March 2022 – August 2022",
-      desc: "Tutor"
+      desc: "K-12 Tutor",
+      descBullets: [
+        "Provided one-on-one in-home personalized tutoring services to supplement K-12 students’ education",
+        "Maintained student records and handled scheduling and parent communications."
+      ]
     },
     {
       role: "Math Instructor",
-      company: "Matnasium",
+      company: "Mathnasium",
       companylogo: require("./assets/images/Mathnasium.png"),
       date: "December 2019 – April 2022",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Math Instructor",
+      descBullets: [
+        "Instructed fundamental mathematical concepts to students with varied mathematical backgrounds.",
+        "Assessed each student's academic ability to customize individual learning"
+      ]
     }
   ]
 };

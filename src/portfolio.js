@@ -243,11 +243,8 @@ const blogSection = {
       url: "https://medium.com/@biswesh2022/is-college-worth-the-cost-2034f2ed2b7,
       title: "Maximizing the return on investment: The benefits of higher education",
       description:
-        "This blog post examines the debate of whether pursuing a college degree is worth the extensive costs by delving into the various benefits that higher education can provide, from the essential life experiences it offers, to the increased chances of getting a higher paying job and the numerous social benefits. It ultimately aims to provide an informed and nuanced perspective on the debate of whether college is worth the cost, and how it can equip individuals for a more prosperous life.
+        "This blog post examines the debate of whether pursuing a college degree is worth the extensive costs by delving into the various benefits that higher education can provide, from the essential life experiences it offers, to the increased chances of getting a higher paying job and the numerous social benefits. It ultimately aims to provide an informed and nuanced perspective on the debate of whether college is worth the cost, and how it can equip individuals for a more prosperous life."
 
-
-
-"
     }
   ],
   display: true // Set false to hide this section, defaults to true

@@ -1,46 +1,38 @@
+/* Import global color variables */
 @import "./globalColor";
 
+/* Define new gradient variables */
+$gradient1: #F8BBD0;
+$gradient2: #F06292;
+
 .App {
+  /* Add a background gradient */
+  background-image: linear-gradient(to right, $gradient1, $gradient2);
+
   text-align: center;
   width: 100%;
   overflow-x: hidden;
-  font-family: 'Open Sans', sans-serif;
 }
 
 .App-logo {
   height: 40vmin;
-  margin-bottom: 2rem;
-  animation: spin infinite 20s linear;
-}
-
-@keyframes spin {
-  from {transform: rotate(0deg);}
-  to {transform: rotate(360deg);}
 }
 
 .App-header {
-  background-image: linear-gradient(to right, $gradient1, $gradient2);
+  background-color: $appHeaderBG;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(0.625rem + 2vmin);
-  color: $textColorLight;
-  padding: 2rem;
+  color: $textColorDark;
 }
 
 .App-link {
   color: $appLink;
-  text-decoration: none;
-  &:hover {
-    text-decoration: underline;
-  }
 }
 
 .subTitle {
   color: $subTitle;
-  font-size: 1.5rem;
-  font-weight: 600;
-  margin-bottom: 2rem;
 }

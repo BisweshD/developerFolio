@@ -119,7 +119,7 @@ const workExperiences = {
       role: "Search Engine Optimization Intern",
       company: "Comet",
       companyUrl: "www.applywithcomet.com",
-      companylogo: require("./assets/images/Comet.png"),
+      companylogo: require("./assets/images/Comet.jpg"),
       date: "May 2021 – August 2022",
       desc: "Intern",
       descBullets: [
@@ -131,14 +131,14 @@ const workExperiences = {
       role: "K-12 Tutor",
       company: "Tutor Doctor",
       companyUrl: "www.tutordoctor.com",
-      companylogo: require("./assets/images/TutorDoctor.jpg"),
+      companylogo: require("./assets/images/TutorDoctor.png"),
       date: "March 2022 – August 2022",
       desc: "Tutor"
     },
     {
       role: "Math Instructor",
       company: "Matnasium",
-      companylogo: require("./assets/images/Mathnasium.jpg"),
+      companylogo: require("./assets/images/Mathnasium.png"),
       date: "December 2019 – April 2022",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }

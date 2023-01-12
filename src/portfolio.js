@@ -250,14 +250,14 @@ const blogSection = {
 
 // Talks Sections
 
-const talks = {
+const talkSection  = {
   title: "Talks",
   subtitle: "",
   talks: [],
   display: false
 };
 
-const podcasts = {
+const podcastSection  = {
   title: "Podcasts",
   subtitle: "",
   podcasts: [],

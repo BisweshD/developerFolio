@@ -254,11 +254,11 @@ const blogSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+1 571-288-1614"
+  subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
+  number: "+1 571-288-1614",
   email_address: "biswesh2022@gmail.com"
 };
+
 
 
 const isHireable = True; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer

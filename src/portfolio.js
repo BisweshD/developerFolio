@@ -264,6 +264,11 @@ const podcastSection  = {
   display: false
 };
 
+const twitterDetails = {
+  userName : "",
+  widgetId : "",
+  display: false
+};
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),

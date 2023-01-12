@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c70d641a3694e26544423c5d7490ac85",
+    "revision": "707978ac50bb7e1a930f4867268c74da",
     "url": "/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "f4b6f36be735975fc689",
-    "url": "/static/css/main.4c0f2ded.chunk.css"
+    "revision": "48a02f183fce52026396",
+    "url": "/static/css/main.bda837ae.chunk.css"
   },
   {
     "revision": "cb21371787f0f7af5d0a",
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.7e77a6e9.chunk.js"
   },
   {
-    "revision": "f4b6f36be735975fc689",
+    "revision": "48a02f183fce52026396",
     "url": "/static/js/main.c48cb15d.chunk.js"
   },
   {
@@ -42,10 +42,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e95dc6e5d3e6b4bd00b5d70c10c36688",
     "url": "/static/media/ANHS.e95dc6e5.jpg"
-  },
-  {
-    "revision": "21f233e19402cc4a66866a7f31191f0d",
-    "url": "/static/media/Agustina.21f233e1.woff"
   },
   {
     "revision": "8eef640ccf954ac56c809d8e58e17b8b",
@@ -62,10 +58,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "37c62e0ede3f3f014650ad1bfb862bd4",
     "url": "/static/media/Mathnasium.37c62e0e.png"
-  },
-  {
-    "revision": "ee6539921d713482b8ccd4d0d23961bb",
-    "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
     "revision": "8a307d00fe1c12640469aeabca35c23e",

@@ -160,7 +160,7 @@ const bigProjects = {
   subtitle: "Experience",
   projects: [
     {
-      image: require("./assets/images/VSGC.webp"),
+      image: require("./assets/images/VSGC.jpg"),
       projectName: "Virginia Space Grant Consortium - Space Research Scholar ",
       projectDesc: "Authored current missions of NASA Wallops flight facility through technical reports aimed at solving engineering problems. • Created a comprehensive Mars mission involving the implementation of Hydrogenated Boron Nanotubes to protect Mars's habitat from cosmic and galactic radiation",
       footerLink: [
@@ -172,7 +172,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/ANHS.webp"),
+      image: require("./assets/images/ANHS.jpg"),
       projectName: "America Nepal Helping Society - Nepalese Language Instructor (Volunteer) ",
       projectDesc: "Teach the Nepali Language to beginner and intermediate level students by offering effective lesson plans that utilize speaking, writing, and listening techniques.",
       footerLink: [
@@ -199,7 +199,7 @@ const achievementSection = {
       title: "Managing systems through Linux Essentials",
       subtitle:
         "Cisco Networking Academy",
-      image: require("./assets/images/Cisco.webp"),
+      image: require("./assets/images/Cisco.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
@@ -220,7 +220,7 @@ const achievementSection = {
       title: "Flight Test Completition Certificate",
       subtitle:
         "Comet",
-      image: require("./assets/images/Comet.webp"),
+      image: require("./assets/images/Comet.png"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
